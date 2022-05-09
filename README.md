@@ -22,11 +22,3 @@ const hassan = {
     architecture: ["microservices", "Progressive web applications", "Single page applications"]
 };
 ```
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hassan-abbas-805999195/" target="_blank"></a>
-<a href="https://stackoverflow.com/users/13186114/hassan-abbas" target="_blank"></a>
-<a href="mailto:hassan.abbasCS@gmail.com"></a>
-</p>
