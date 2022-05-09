@@ -26,7 +26,7 @@ const hassan = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hassan-abbas-805999195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/13186114/hassan-abbas" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:hassan.abbasCS@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/hassan-abbas-805999195/" target="_blank"></a>
+<a href="https://stackoverflow.com/users/13186114/hassan-abbas" target="_blank"></a>
+<a href="mailto:hassan.abbasCS@gmail.com"></a>
 </p>
