@@ -14,11 +14,11 @@ const hassan = {
     code: ["Javascript", "Typescript"],
     technologies: {
         frontEnd: ["React", "React Native", "Angular"],
-        backEnd: ["NodeJS", "Rxpress", "NestJS"],
+        backEnd: ["NodeJS", "Express", "NestJS"],
         devOps: ["AWS", "Docker"],
-        databases: ["Mongo", "Elasticsearch", "postgreSQL"]
+        databases: ["MongoDB", "Elasticsearch", "postgreSQL"]
     },
-    tools: ["git", "github", "bitbucket", "jira", "slack"],
+    tools: ["git", "github", "bitbucket", "jira", "slack", "trello"],
     architecture: ["microservices", "Progressive web applications", "Single page applications"]
 };
 ```
