@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Hassan Abbas](https://www.linkedin.com/in/hassan-abbas-805999195/)
-> Software Engineer || Backend at [Eurisko Mobility](https://euriskomobility.com)
+> Software Engineer at [Eurisko Mobility](https://euriskomobility.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
