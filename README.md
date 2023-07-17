@@ -13,12 +13,12 @@ const hassan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript"],
     technologies: {
-        frontEnd: ["React", "React Native", "Angular"],
-        backEnd: ["NodeJS", "Express", "NestJS"],
-        devOps: ["AWS", "Docker"],
-        databases: ["MongoDB", "Elasticsearch", "postgreSQL"]
+        Backend: ["NodeJS", "Express", "NestJS", "Fastfy"],
+        Frontend: ["React", "React Native", "Angular"],
+        Databases: ["MongoDB", "Elasticsearch", "PostgreSQL", "Redis"],
+        DevOps: ["AWS", "Docker"],
     },
-    tools: ["git", "github", "bitbucket", "jira", "slack", "trello"],
-    architecture: ["microservices", "Progressive web applications", "Single page applications"]
+    tools: ["git", "github", "gitlab", "bitbucket", "jira", "slack"],
+    architecture: ["Microservices", "Monorepo"]
 };
 ```
