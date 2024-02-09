@@ -4,18 +4,18 @@
 </p>
 
 ### Hi there 👋 I'm [Hassan Abbas](https://www.linkedin.com/in/hassan-abbas-805999195/)
-> Software Engineer at [Eurisko Mobility](https://euriskomobility.com)
+> Software Engineer at [Eurisko](https://eurisko.net/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const hassan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript"],
+    code: ["Javascript", "Typescript",  "Java"],
     technologies: {
-        Backend: ["NodeJS", "Express", "NestJS", "Fastfy"],
-        Frontend: ["React", "React Native", "Angular"],
-        Databases: ["MongoDB", "Elasticsearch", "PostgreSQL", "Redis"],
+        Backend: ["NodeJS", "NestJS", "Express", "Fastfy", "Spring Boot"],
+        Frontend: ["React", "React Native"],
+        Databases: ["MongoDB", "Elasticsearch", "PostgreSQL", "MSSQL", "Redis"],
         DevOps: ["AWS", "Docker"],
     },
     tools: ["git", "github", "gitlab", "bitbucket", "jira", "slack"],
