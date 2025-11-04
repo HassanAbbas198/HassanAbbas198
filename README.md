@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Hassan Abbas](https://www.linkedin.com/in/hassan-abbas-805999195/)
-> Software Engineer at [Eurisko](https://eurisko.net/)
+> Senior Software Engineer at [Supy](https://supy.io/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -13,7 +13,7 @@ const hassan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript",  "Java"],
     technologies: {
-        Backend: ["NodeJS", "NestJS", "Express", "Fastfy", "Spring Boot"],
+        Backend: ["Node.js", "NestJS", "Express", "Fastify", "Spring Boot"],
         Frontend: ["React", "React Native"],
         Databases: ["MongoDB", "Elasticsearch", "PostgreSQL", "MSSQL", "Redis"],
         DevOps: ["AWS", "Docker"],
