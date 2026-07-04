@@ -4,21 +4,24 @@
 </p>
 
 ### Hi there 👋 I'm [Hassan Abbas](https://www.linkedin.com/in/hassan-abbas-805999195/)
-> Senior Software Engineer at [Supy](https://supy.io/)
+> Senior Software Engineer at [Baselane](https://www.baselane.com/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const hassan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript",  "Java"],
+    code: ["JavaScript", "TypeScript", "Java"],
     technologies: {
-        Backend: ["Node.js", "NestJS", "Express", "Fastify", "Spring Boot"],
+        Backend: ["Node.js", "NestJS", "Express", "Fastify", "Flink"],
         Frontend: ["React", "React Native"],
-        Databases: ["MongoDB", "Elasticsearch", "PostgreSQL", "MSSQL", "Redis"],
-        DevOps: ["AWS", "Docker"],
+        Databases: ["MongoDB", "Redis", "Elasticsearch", "PostgreSQL", "MSSQL"],
+        Cloud: ["AWS", "Cloudflare"],
+        DevOps: ["Docker", "Terraform", "CI/CD"],
+        Messaging: ["Kafka", "NATS", "BullMQ"],
+        Observability: ["OpenTelemetry", "Grafana", "Datadog"],
     },
-    tools: ["git", "github", "gitlab", "bitbucket", "jira", "slack"],
-    architecture: ["Microservices", "Monorepo"]
+    architecture: ["Microservices", "DDD", "CQRS", "Event-Driven"],
+    tools: ["git", "jira", "slack"],
 };
 ```
